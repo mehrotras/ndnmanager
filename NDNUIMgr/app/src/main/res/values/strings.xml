@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NDN Manager Version 1.0.</string>
+    <string name="ndn_status_pre">Preparing </string>
+    <string name="ndn_status_start_prog">Start in progress </string>
+    <string name="ndn_status_stop_prog">Stop in progress </string>
+    <string name="action_settings">Settings</string>
+    <string name="NDN">Named Domain Network Manager</string>
+    <string name="ndn_status_run">NFD is Running</string>
+    <string name="ndn_status_stop">NFD is Stopped</string>
+    <string name="ndn_status_start_err">NFD cannot start</string>
+    <string name="ndn_status_stop_err">NFD cannot stop</string>
+</resources>

@@ -1,0 +1,106 @@
+<resources>
+
+    <style name="settings_header">
+        <item name="android:layout_marginBottom">10dip</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    </style>
+
+    <eat-comment />
+
+    <style name="WindowTitleBackground">
+        <item name="android:background">@drawable/ab_background_textured_example</item>
+    </style>
+
+    <style name="WindowTitle">
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowColor">#ff8bf0</item>
+        <item name="android:shadowRadius">2.75</item>
+        <item name="android:textColor">#ff3527f0</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/ab_texture_tile_example</item>
+    </style>
+
+    <style name="Widget">
+
+    </style>
+
+
+    <style name="Widget.Button">
+        <item name="android:background">@drawable/abc_btn_check_material</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textColor">#000CCC</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:padding">0dp</item>
+        <item name="android:minWidth">88dp</item>
+        <item name="android:minHeight">36dp</item>
+        <item name="android:layout_margin">3dp</item>
+
+
+    </style>
+
+    <style name="Widget.TextView">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#006633</item>
+        <item name="android:background">@drawable/abc_textfield_default_mtrl_alpha</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:padding">5dp</item>
+    </style>
+
+    <style name="TextAppearance">
+        <item name="android:textColor">#0A0F0F</item>
+        <item name="android:textColorHighlight">#000FFF</item>
+        <item name="android:textColorHint">#000CCC</item>
+        <item name="android:textColorLink">#000DDD</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="TextAppearance.Inverse">
+        <item name="android:textColor">#000AAA</item>
+        <item name="android:textColorHint">#000BBB</item>
+        <item name="android:textColorHighlight">#A0B0C0</item>
+        <item name="android:textColorLink">#AABBCC</item>
+    </style>
+
+    <style name="TextAppearance.Theme"></style>
+
+    <style name="TextAppearance.DialogWindowTitle">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TextAppearance.Large">
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="TextAppearance.SearchResult">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#000FFF</item>
+        <item name="android:textColorHint">#000CCC</item>
+    </style>
+    <!-- @hide -->
+    <style name="TextAppearance.SearchResult.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <!-- @hide -->
+    <style name="TextAppearance.SearchResult.Subtitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#ACBCDF</item>
+    </style>
+
+    <style name="TextAppearance.WindowTitle">
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
