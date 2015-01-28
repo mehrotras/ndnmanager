@@ -83,6 +83,7 @@ public class NDNActivity extends ActionBarActivity {
         this.setTitle(R.string.app_name);
         this.setTheme(R.style.Theme_AppCompat_Light_DarkActionBar);
 
+        this.setProgressBarVisibility(true);
 
         // The filter's action is BROADCAST_ACTION
         IntentFilter mStatusIntentFilter = new IntentFilter(
@@ -144,7 +145,7 @@ public class NDNActivity extends ActionBarActivity {
 
         NotificationCompat.Builder mBuilder =
                 new NotificationCompat.Builder(this)
-                        .setSmallIcon(R.drawable.ic_launcher)
+                        .setSmallIcon(R.drawable.ndn)
                         .setContentTitle("NDN notification")
                         .setContentText("NDN started !");
 // Creates an explicit intent for an Activity in your app
@@ -183,7 +184,7 @@ public class NDNActivity extends ActionBarActivity {
 
         NotificationCompat.Builder mBuilder =
                 new NotificationCompat.Builder(this)
-                        .setSmallIcon(R.drawable.ic_launcher)
+                        .setSmallIcon(R.drawable.ndn)
                         .setContentTitle("NDN notification")
                         .setContentText("NDN Stopped !");
 // Creates an explicit intent for an Activity in your app

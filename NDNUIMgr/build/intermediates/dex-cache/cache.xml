@@ -2,32 +2,32 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\smehrotra\AndroidStudioProjects\NDNUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="C:\Users\smehrotra\AndroidStudioProjects\NDNUI\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-34b2131e41ec917a3a14b14eb890f25db2df777c.jar" />
-    </item>
-    <item
-        jar="C:\Users\smehrotra\AndroidStudioProjects\NDNUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="C:\Users\smehrotra\AndroidStudioProjects\NDNUI\app\build\intermediates\pre-dexed\debug\classes-84269eda90727fd949db71499b50cd873f43ebe9.jar" />
-    </item>
-    <item
-        jar="C:\Users\smehrotra\AndroidStudioProjects\NDNUI\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jar="C:\Users\smehrotra\AndroidStudioProjects\NDNUIMgr\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="C:\Users\smehrotra\AndroidStudioProjects\NDNUI\app\build\intermediates\pre-dexed\debug\classes-5d81fcf5c8ff20c696c06bcd23012bd6cd8330bc.jar" />
+        <dex dex="C:\Users\smehrotra\AndroidStudioProjects\NDNUIMgr\app\build\intermediates\pre-dexed\debug\classes-07aa1073e6329ee4ceb379dd20189756430e03fb.jar" />
+    </item>
+    <item
+        jar="C:\Users\smehrotra\AndroidStudioProjects\NDNUIMgr\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\smehrotra\AndroidStudioProjects\NDNUIMgr\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-20ae480f038a59126487e4d24de265b820d9f730.jar" />
     </item>
     <item
         jar="C:\Users\smehrotra\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="C:\Users\smehrotra\AndroidStudioProjects\NDNUI\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-23f3d1ed24f9425cf6d0bb3be79d319b2cc896f2.jar" />
+        <dex dex="C:\Users\smehrotra\AndroidStudioProjects\NDNUIMgr\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-23f3d1ed24f9425cf6d0bb3be79d319b2cc896f2.jar" />
+    </item>
+    <item
+        jar="C:\Users\smehrotra\AndroidStudioProjects\NDNUIMgr\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\smehrotra\AndroidStudioProjects\NDNUIMgr\app\build\intermediates\pre-dexed\debug\classes-99dec17cf245b701be9d580beae4d489300d9aa1.jar" />
     </item>
 
 </items>
